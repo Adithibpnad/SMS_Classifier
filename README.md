@@ -1,1 +1,2 @@
-# SMS_Classifier
+This is my Bharat Intern DataScience Internship project.
+This script presents an evaluation of machine learning models using three distinct classifiers: Naive Bayes, Logistic Regression, and Support Vector Machine (SVM). The emphasis is on assessing the performance of each classifier by reporting accuracy metrics and generating classification reports. These comprehensive evaluations provide valuable insights into the predictive capabilities of each model on the given dataset. The script showcases essential concepts in machine learning, including model assessment, accuracy measurement, and the application of well-established classifiers. 
